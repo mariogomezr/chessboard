@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mariogomezr.github.io/chessboard/static/css/main.e6c13ad2.css",
+    "main.js": "/mariogomezr.github.io/chessboard/static/js/main.73d785a6.js",
+    "static/js/787.fe04caf9.chunk.js": "/mariogomezr.github.io/chessboard/static/js/787.fe04caf9.chunk.js",
+    "index.html": "/mariogomezr.github.io/chessboard/index.html",
+    "main.e6c13ad2.css.map": "/mariogomezr.github.io/chessboard/static/css/main.e6c13ad2.css.map",
+    "main.73d785a6.js.map": "/mariogomezr.github.io/chessboard/static/js/main.73d785a6.js.map",
+    "787.fe04caf9.chunk.js.map": "/mariogomezr.github.io/chessboard/static/js/787.fe04caf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.73d785a6.js"
+  ]
+}
